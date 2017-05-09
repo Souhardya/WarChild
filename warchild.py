@@ -47,7 +47,7 @@ def main():
 [---]                                                                       [---]
 [---]                  Created by Souhardya Sardar                          [---]
 [---]                    github.com/Souhardya                               [---]
-[---]            Special thanks to Binary Sec for concept                   [---]
+[---]                  ~ Special thanks to Morty ~                          [---]
 [---]                                                                       [---]
 [---]             ~  8th Sillycon Open Source Project ~                     [---]
 
