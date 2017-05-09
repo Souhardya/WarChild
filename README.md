@@ -5,7 +5,7 @@ against different kinds of denial of service attacks you will be facing which ar
 organised by crooks to cause damage to your website..
   
 
-![Alt text](http://oi67.tinypic.com/smyarl.jpg "Screenshot")
+![Alt text](http://oi64.tinypic.com/23uquzt.jpg "Screenshot")
 
 # Installation
 ```
