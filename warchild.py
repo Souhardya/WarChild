@@ -101,7 +101,7 @@ def cloudflarebust():
 
 def httpdos():
 	print("This will flood the websites with 100's and 1000's of http header requests and will try to suck all of it's resources.")
-	http = raw_input("Select a Target (Please use http/https) :")
+	http = raw_input("Select a Target ( Ex http/site.suffix ) Don't use www in anyway  : ")
 	os.system("cd modules && python http_flood.py %s"% http)
 
 
