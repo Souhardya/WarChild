@@ -57,6 +57,14 @@ soon as possible .
 Souhardya Sardar is an independent security analyst and programmer who loves to break things in order to secure them.
 Github :- github.com/Souhardya 
  
+# Donate and contact :3 
+
+If you want to do any python based project with me please kindly mail me at Souhardya.sardar@protonmail.com
+
+If you like my code :3 buy me a beer 
+
+Bitcoin Address :- 1EyfivBCpdxKonG9imh8Mib3Bgeuy8cV8F
+
 
 # Illegal Usage is prohibited !!
 
